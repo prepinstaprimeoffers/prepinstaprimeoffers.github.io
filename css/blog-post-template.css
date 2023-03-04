@@ -142,9 +142,11 @@
 
   .content img {
     height: 100%;
-    width: 60%;
-  }
 
+  }
+.roadmap{
+  width: 60%;
+}
   .content a {
     text-decoration: none;
     color: var(--secondary-dark-red);
