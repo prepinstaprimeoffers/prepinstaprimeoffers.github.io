@@ -147,6 +147,10 @@
 .roadmap{
   width: 60%;
 }
+.coupon_codes{
+  width: 40%;
+}
+
   .content a {
     text-decoration: none;
     color: var(--secondary-dark-red);
